@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: #111;
+    position: relative;
+}
+
+.elem{
+    height: 100px;
+    width: 100%;
+    /* background-color: red; */
+    border-bottom: 2px solid white;
+}
+
+.elem h1{
+    font-size: 8vh;
+}
+
